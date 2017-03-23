@@ -1,7 +1,4 @@
-#QQ黏性贝塞尔曲线
-
-## 效果
-![qqshow.gif](http://upload-images.jianshu.io/upload_images/2482523-dc9633fc06e3bf43.gif?imageMogr2/auto-orient/strip)
+# QQ黏性贝塞尔曲线
 
 ## 原理
 * 判断触摸到图片
